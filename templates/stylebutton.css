@@ -1,0 +1,19 @@
+.botao{
+    left: 50%;
+    background-color:rgb(104, 82, 165);
+    cursor: pointer;
+}
+.botao:hover{
+    background-color: #a879d8;
+    transition: 0.5s;
+}
+.botaocad{
+    border: 5px;
+    right: 50%;
+    background-color:rgb(104, 82, 165);
+    cursor: pointer;
+}
+.botaocad:hover{
+    background-color: #a879d8;
+    transition: 0.5s;
+}

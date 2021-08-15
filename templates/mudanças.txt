@@ -1,0 +1,8 @@
+1- atualização no arquivo auth.py
+2- criada função de user em models.py
+3- modelo de signup alterado em signup.html
+4- possível substituição do login atual pelo "second_login.html"
+
+Status geral: Tudo certo para funcionar, apenas não conectei ao database pois preciso entender
+o código antes de implementar para evitar erros, com a função de usuário agora podemos cadastrar
+e logar sempre que for necessário.
